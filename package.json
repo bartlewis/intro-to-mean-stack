@@ -1,0 +1,14 @@
+{
+  "name": "intro-to-mean",
+  "version": "1.0.0",
+  "description": "An Introduction to MeanStack for SitePoint",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bartlewis@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "monk": "^1.0.1"
+  }
+}
